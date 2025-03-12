@@ -4,3 +4,12 @@ html {
     box-sizing: border-box;
     scroll-behavior: smooth;
   }
+  body {
+    font-family: "Zen Kaku Gothic New", sans-serif;
+     font-size: 1.6rem;
+     font-weight: 400;
+     line-height: 3.3rem;
+     text-align: left;
+     background-color: #EBE1D4;
+     color: #2D2E2E;
+   }
