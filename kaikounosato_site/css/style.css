@@ -67,7 +67,7 @@ html {
   margin: 0 auto;
 }
 .main_word-container{
-  width: 50%;
+  width: 40%;
 }
 .main_word{
   white-space: nowrap;
@@ -93,6 +93,7 @@ html {
 .main_visual{
   z-index: 999;
   position: relative;
+  width: 60%;
 }
 .first-reserve{
   margin-top: 40px;
