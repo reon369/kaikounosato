@@ -65,3 +65,6 @@ html {
   display:flex;
   max-width: 1100px;
 }
+.main_word-container{
+  width: 40%;
+}
