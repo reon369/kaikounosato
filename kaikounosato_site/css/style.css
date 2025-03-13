@@ -84,7 +84,7 @@ html {
   margin-top: 20%;
 }
 .logo{
-  width: 70%;
+  max-width: 240px;
   margin-bottom: 20%;
 }
 .main_visual-container{
