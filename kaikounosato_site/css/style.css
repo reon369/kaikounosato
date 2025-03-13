@@ -102,6 +102,9 @@ html {
   position: relative;
   width: fit-content;
 }
+.button-reserves-sns{
+  display: flex;
+}
 .button-reserve{
   display: block;
 }
