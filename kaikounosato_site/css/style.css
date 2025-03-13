@@ -23,6 +23,9 @@ html {
      background-color: #F1ECBB;
      color: #000;
    }
+   a {
+    text-decoration: none;
+   }
    h2{
     font-size: 5.0rem;
     color:#fff;
@@ -107,5 +110,5 @@ html {
   box-shadow: 8px 8px #228E61;
   border-radius: 10px;
   background: linear-gradient(transparent 0%, #2EA875 0%);
-  padding: 40px;
+  padding: 15px;
 }
