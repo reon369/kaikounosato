@@ -71,7 +71,7 @@ html {
 }
 .main_word{
   display: inline;
-  font-size: 2.5rem;
+  font-size: 5rem;
   font-weight: 600;
   line-height: 1.4em;
   padding: 5px;
@@ -79,7 +79,7 @@ html {
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
   box-shadow:4px 4px #228E61;
-  border-radius: 50%;
+  border-radius: 10%;
   margin-top: 20%;
 }
 .main_visual{
