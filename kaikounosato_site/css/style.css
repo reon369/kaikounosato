@@ -64,6 +64,7 @@ html {
 .main_visual-wrapper{
   display:flex;
   max-width: 1100px;
+  margin: 0 auto;
 }
 .main_word-container{
   width: 40%;
