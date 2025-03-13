@@ -79,7 +79,7 @@ html {
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
   box-shadow:4px 4px #228E61;
-  border-radius: 10%;
+  border-radius: 10px;
   margin-top: 20%;
 }
 .main_visual{
