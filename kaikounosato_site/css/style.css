@@ -104,9 +104,10 @@ html {
 }
 .button-reserves-sns{
   display: flex;
+  display: block;
 }
 .button-reserve{
-  display: block;
+  
 }
 .first-reserve{
   box-shadow: 8px 8px #228E61;
