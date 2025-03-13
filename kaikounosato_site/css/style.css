@@ -80,6 +80,7 @@ html {
   box-decoration-break: clone;
   box-shadow:4px 4px #228E61;
   border-radius: 50%;
+  margin-top: 20%;
 }
 .main_visual{
   z-index: 999;
