@@ -61,3 +61,7 @@ html {
     left: -1.5%;
     top: 40%;
   }
+.main_visual-wrapper{
+  display:flex;
+  
+}
