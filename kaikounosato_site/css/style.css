@@ -81,7 +81,7 @@ html {
   background: linear-gradient(transparent 0%, #2EA875 0%);
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
-  box-shadow:4px 4px #228E61;
+  box-shadow: 8px 8px #228E61;
   border-radius: 10px;
   margin-top: 20%;
   color: #fff;
@@ -104,4 +104,8 @@ html {
 }
 .first-reserve{
   margin-top: 10%;
+  box-shadow: 8px 8px #228E61;
+  border-radius: 10px;
+  background: linear-gradient(transparent 0%, #2EA875 0%);
+  padding: 40px;
 }
