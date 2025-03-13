@@ -79,4 +79,5 @@ html {
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
   box-shadow:4px 4px #228E61;
+  border-radius: 50%;
 }
