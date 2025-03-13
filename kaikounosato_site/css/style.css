@@ -81,3 +81,7 @@ html {
   box-shadow:4px 4px #228E61;
   border-radius: 50%;
 }
+.main_visual{
+  z-index: 999;
+    position: relative;
+}
