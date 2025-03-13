@@ -100,7 +100,7 @@ html {
   width: fit-content;
 }
 .button-reserve{
-  width: 100%;
+  display: block;
 }
 .first-reserve{
   margin-top: 10%;
