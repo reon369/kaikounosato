@@ -117,3 +117,10 @@ html {
 .button-reserves-sns{
   margin-top: 10%;
 }
+.button-sns{
+  box-shadow: 8px 8px #228E61;
+  border-radius: 10px;
+  background: linear-gradient(transparent 0%, #2EA875 0%);
+  padding: 15px;
+  margin-left: 30px;
+}
