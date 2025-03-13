@@ -87,8 +87,8 @@ html {
 }
 .logo{
   max-width: 240px;
-  margin-bottom: 20%;
-  margin-top: 20%;
+  margin-bottom: 10%;
+  margin-top: 10%;
 }
 .main_visual-container{
   width:60% ;
@@ -99,5 +99,5 @@ html {
   width: fit-content;
 }
 .first-reserve{
-  margin-top: 40px;
+  margin-top: 10%;
 }
