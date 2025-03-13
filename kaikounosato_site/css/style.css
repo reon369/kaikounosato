@@ -94,7 +94,7 @@ html {
 .main_visual{
   z-index: 999;
   position: relative;
-  width: 60%;
+  width: fit-content;
 }
 .first-reserve{
   margin-top: 40px;
