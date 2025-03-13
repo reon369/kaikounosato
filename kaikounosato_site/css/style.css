@@ -69,3 +69,14 @@ html {
 .main_word-container{
   width: 40%;
 }
+.main_word{
+  display: inline;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.4em;
+  padding: 5px;
+  background: linear-gradient(transparent 0%, #2EA875 0%);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  box-shadow:4px 4px #2EA875;
+}
