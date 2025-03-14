@@ -182,7 +182,9 @@ html {
 }
 .aboutimg02{
   width: 40%;
-  position: absolute;
+  position: relative;
+  left: 50%;
+  bottom: 8%;
 }
 .about-description-sec{
   width: 50%;
