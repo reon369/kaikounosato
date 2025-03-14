@@ -66,12 +66,14 @@ html {
     left: 10%;
   }
 .nami1::before, .nami1::after {
-    content: url(../asset/img/nami.png); /* ここが適用されるようになる */
-    display: inline-block;
-    position: absolute;
-    width: 280px;
-    height: auto;
-}
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;  /* .nami1 と同じ幅にする */
+  height: 100%;
+  background-image: url(../asset/img/nami.png); /* 背景画像として設定 */
+  background-size: contain;  /* 画像を要素のサイズに収める */
+  background-repeat: no-repeat;
 
 .nami1::before {
     left: 10%;
