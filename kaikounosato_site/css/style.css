@@ -233,3 +233,7 @@ html {
   margin: 60px auto ;
   text-align: center;
 }
+.Whatplace-corporate-sec{
+  display: flex;
+  justify-content: flex-start;
+}
