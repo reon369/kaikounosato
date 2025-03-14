@@ -54,6 +54,18 @@ html {
     width: 20%;
     z-index: 9999;
   }
+  .nami::before{
+    position: absolute;
+    width: 20%;
+    z-index: 9999;
+    left: 10%;
+  }
+  .nami::after{
+    position: absolute;
+    width: 20%;
+    z-index: 9999;
+    right: 10%;
+  }
   .wave {
     position: absolute;
     height: 87px;
