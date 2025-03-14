@@ -30,6 +30,10 @@ html {
     font-size: 5.0rem;
     color:#fff;
    }
+   h4{
+    font-size: 7.5rem;
+    color: #228E61;
+   }
    .container {
     position: relative;
     background: #BBE7F1;
@@ -181,5 +185,8 @@ html {
 }
 .about-descrption-sec{
   width: 50%;
+}
+.head-about{
+  margin-bottom: 30px;
 }
 
