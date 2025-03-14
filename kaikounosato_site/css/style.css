@@ -74,7 +74,7 @@ html {
   background-image: url(../asset/img/nami.png); /* 背景画像として設定 */
   background-size: contain;  /* 画像を要素のサイズに収める */
   background-repeat: no-repeat;
-
+}
 .nami1::before {
     left: 10%;
 }
