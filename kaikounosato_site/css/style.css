@@ -217,6 +217,11 @@ html {
   line-height: 3.6rem;
   margin-top: 20px;
 }
+.container3{
+  height: 3vh;
+  position: relative;
+  background: #BBE7F1;
+}
 .Whatplace-sec{
   position: relative;
 }
@@ -227,9 +232,4 @@ html {
 .Whatplace-sec h4{
   margin: 30px auto;
   text-align: center;
-}
-.container3{
-  height: 3vh;
-  position: relative;
-  background: #BBE7F1;
 }
