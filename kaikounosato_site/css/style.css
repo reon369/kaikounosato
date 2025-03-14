@@ -62,6 +62,7 @@ html {
     position: absolute;
     width: 20%;
     z-index: 9999;
+    top: 5%;
   }
   .nami1::before, .nami1::after {
     content: "";
@@ -69,16 +70,16 @@ html {
     position: absolute;
   }
   .nami1::before{
-    position: absolute;
+
     width: 20%;
     z-index: 9999;
     left: 10%;
   }
   .nami1::after{
-    position: absolute;
     width: 20%;
     z-index: 9999;
     right: 10%;
+   
   }
   .wave {
     position: absolute;
