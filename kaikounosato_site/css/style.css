@@ -63,6 +63,11 @@ html {
     width: 20%;
     z-index: 9999;
   }
+  .nami1::before, .nami1::after {
+    content: "";
+    display: block;
+    position: absolute;
+  }
   .nami1::before{
     position: absolute;
     width: 20%;
