@@ -261,7 +261,7 @@ html {
   align-items: flex-end;
   width: 100%;
   gap: 5%;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 .Whatplace-personal-sec{
 display: flex;
@@ -269,8 +269,8 @@ width: 100%;
 justify-content: center;
 align-items: flex-end;
 gap: 5%;
-margin-bottom: 20px;
-margin-top: 20px;
+margin-bottom: 30px;
+margin-top: 30px;
 }
 .Whatplace-local-sec{
   display: flex;
@@ -278,7 +278,7 @@ margin-top: 20px;
   justify-content: flex-end;
   align-items: flex-end;
   gap: 5%;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 .width{
   width: 40%;
