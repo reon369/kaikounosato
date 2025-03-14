@@ -67,9 +67,9 @@ html {
   }
 .nami1::before, .nami1::after {
     content: url(../asset/img/nami.png); /* ここが適用されるようになる */
-    display: block;
+    display: inline-block;
     position: absolute;
-    width: 420px;
+    width: 280px;
     height: auto;
 }
 
