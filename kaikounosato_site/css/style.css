@@ -51,7 +51,8 @@ html {
   }
   .nami{
     position: absolute;
-    width: 50%;
+    width: 20%;
+    z-index: 9999;
   }
   .wave {
     position: absolute;
