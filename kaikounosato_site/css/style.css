@@ -60,9 +60,10 @@ html {
   }
   .nami1{
     position: absolute;
-    width: 40%;
+    width: 20%;
     z-index: 9999;
-    top: 5%;
+    top: 10%;
+    left: 10%;
   }
   .nami1::before, .nami1::after {
     content: "";
