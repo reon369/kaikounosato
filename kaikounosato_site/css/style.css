@@ -65,24 +65,21 @@ html {
     top: 10%;
     left: 10%;
   }
-  .nami1::before, .nami1::after {
-    content:url(../asset/img/nami.png) ;
-    display: inline-block;
+.nami1::before, .nami1::after {
+    content: url(../asset/img/nami.png); /* ここが適用されるようになる */
+    display: block;
     position: absolute;
-  }
-  .nami1::before{
     width: 420px;
     height: auto;
-    z-index: 9999;
+}
+
+.nami1::before {
     left: 10%;
-  }
-  .nami1::after{
-    width: 420px;
-    height: auto;
-    z-index: 9999;
+}
+
+.nami1::after {
     right: 10%;
-   
-  }
+}
   .wave {
     position: absolute;
     height: 87px;
