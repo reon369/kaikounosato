@@ -60,7 +60,7 @@ html {
   }
   .nami1{
     position: absolute;
-    width: 380px;
+    width: 420px;
     z-index: 9999;
     top: 10%;
     left: 10%;
@@ -71,13 +71,13 @@ html {
     position: absolute;
   }
   .nami1::before{
-    width: 380px;
+    width: 420px;
     height: auto;
     z-index: 9999;
     left: 10%;
   }
   .nami1::after{
-    width: 380px;
+    width: 420px;
     height: auto;
     z-index: 9999;
     right: 10%;
