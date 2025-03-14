@@ -41,6 +41,9 @@ html {
     font-size: 7.5rem;
     color: #228E61;
    }
+   h4{
+    font-size: 3.2rem;
+   }
    .container {
     position: relative;
     background: #BBE7F1;
