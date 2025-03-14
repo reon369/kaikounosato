@@ -58,18 +58,18 @@ html {
     background: #BBE7F1;
     height: 15vh;
   }
-  .nami{
+  .nami1{
     position: absolute;
     width: 20%;
     z-index: 9999;
   }
-  .nami::before{
+  .nami1::before{
     position: absolute;
     width: 20%;
     z-index: 9999;
     left: 10%;
   }
-  .nami::after{
+  .nami1::after{
     position: absolute;
     width: 20%;
     z-index: 9999;
