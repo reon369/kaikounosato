@@ -67,7 +67,7 @@ html {
   }
   .nami1::before, .nami1::after {
     content:url(../asset/img/nami.png) ;
-    display: block;
+    display: inline-block;
     position: absolute;
   }
   .nami1::before{
