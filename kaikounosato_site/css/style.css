@@ -49,7 +49,10 @@ html {
     background: #BBE7F1;
     height: 15vh;
   }
-  
+  .nami{
+    position: absolute;
+    width: 50%;
+  }
   .wave {
     position: absolute;
     height: 87px;
