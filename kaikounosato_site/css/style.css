@@ -223,3 +223,8 @@ html {
 .Whatplace-sec h4{
   margin: 30px auto;
 }
+.container3{
+  height: 3vh;
+  position: relative;
+    background: #BBE7F1;
+}
