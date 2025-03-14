@@ -237,3 +237,11 @@ html {
   display: flex;
   justify-content: flex-start;
 }
+.Whatplace-personal-sec{
+display: flex;
+justify-content: center;
+}
+.Whatplace-local-sec{
+  display: flex;
+  justify-content: flex-end;
+}
