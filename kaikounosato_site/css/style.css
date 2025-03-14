@@ -170,7 +170,16 @@ html {
 }
 .about-img{
   width: 50%;
+  position: relative;
+}
+.aboutimg01{
+  width: 80%;
+}
+.aboutimg01{
+  width: 40%;
+  position: absolute;
 }
 .about-descrption-sec{
   width: 50%;
 }
+
