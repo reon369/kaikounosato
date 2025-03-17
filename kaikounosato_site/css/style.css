@@ -308,26 +308,37 @@ margin-top: 30px;
   align-items: flex-end;
   width: 100%;
   margin-bottom: 30px;
+  gap: 5%;
 }
 .local-description-sec{
-  width: 40%;
+  width: 50%;
+}
+.local-img-sec{
+  width: 50%;
 }
 .recomend-freedom-sec{
   display: flex;
   align-items: flex-end;
   width: 100%;
   margin-bottom: 30px;
+  gap: 5%;
 }
 .freedom-description-sec{
-  width: 40%;
+  width: 50%;
+}
+.freedom-img-sec{
+  width: 50%;
 }
 .recomend-ivent-sec{
   display: flex;
   align-items: flex-end;
   width: 100%;
   margin-bottom: 30px;
-
+  gap: 5%;
 }
 .ivent-description-sec{
-  width: 40%;
+  width: 50%;
+}
+.ivent-img-sec{
+  width: 50%;
 }
