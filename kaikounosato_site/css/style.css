@@ -303,3 +303,12 @@ margin-top: 30px;
   text-align: center;
   color: #228E61;
 }
+.recomend-local-sec{
+  display: flex;
+  align-items: baseline;
+  width: 100%;
+}
+.local-description-sec{
+  width: 50%;
+
+}
