@@ -305,27 +305,29 @@ margin-top: 30px;
 }
 .recomend-local-sec{
   display: flex;
-  align-items: baseline;
+  align-items: flex-end;
   width: 100%;
   margin-bottom: 30px;
 }
-
+.local-description-sec{
+  width: 40%;
+}
 .recomend-freedom-sec{
   display: flex;
-  align-items: baseline;
+  align-items: flex-end;
   width: 100%;
   margin-bottom: 30px;
 }
 .freedom-description-sec{
-  width: 50%;
+  width: 40%;
 }
 .recomend-ivent-sec{
   display: flex;
-  align-items: baseline;
+  align-items: flex-end;
   width: 100%;
   margin-bottom: 30px;
 
 }
 .ivent-description-sec{
-  width: 50%;
+  width: 40%;
 }
