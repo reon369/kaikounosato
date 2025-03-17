@@ -308,6 +308,7 @@ margin-top: 30px;
   align-items: flex-end;
   width: 100%;
   margin-bottom: 30px;
+  justify-content: space-between;
 }
 .local-description-sec{
   width: 50%;
@@ -320,9 +321,10 @@ margin-top: 30px;
   align-items: flex-end;
   width: 100%;
   margin-bottom: 30px;
+  justify-content: space-between;
 }
 .freedom-description-sec{
-  width: 50%;
+  width: 40%;
 }
 .freedom-img-sec{
   width: 50%;
@@ -332,6 +334,7 @@ margin-top: 30px;
   align-items: flex-end;
   width: 100%;
   margin-bottom: 30px;
+  justify-content: space-between;
 }
 .ivent-description-sec{
   width: 50%;
