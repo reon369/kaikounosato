@@ -310,5 +310,20 @@ margin-top: 30px;
 }
 .local-description-sec{
   width: 50%;
-
+}
+.recomend-freedom-sec{
+  display: flex;
+  align-items: baseline;
+  width: 100%;
+}
+.freedom-description-sec{
+  width: 50%;
+}
+.recomend-ivent-sec{
+  display: flex;
+  align-items: baseline;
+  width: 100%;
+}
+.ivent-description-sec{
+  width: 50%;
 }
