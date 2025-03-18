@@ -419,3 +419,9 @@ margin-bottom: 30px;
   border-radius: 15px;
   margin-top: 70%;
 }
+.access-adress-osuume{
+  display: flex;
+  background-color: #E4DFAA;
+  padding: 15px;
+  border-radius: 15px;
+}
