@@ -312,6 +312,9 @@ margin-bottom: 30px;
   width: 40%;
 }
 .recommend-user{
+  background-color: #2EA875;
+}
+.recommend-user-wapper{
   margin: 0 auto;
   max-width: 1100px;
 }
