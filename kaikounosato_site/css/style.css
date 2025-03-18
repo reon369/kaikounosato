@@ -384,3 +384,17 @@ margin-bottom: 30px;
   padding: 50px 0;
   text-align: center;
 }
+  .reserve-wrapper h4{
+  margin-bottom: 30px;
+}
+.reserve-wrapper p{
+  margin-bottom: 30px;
+}
+.reserve-wrapper a{
+  box-shadow: 8px 8px #228E61;
+  border-radius: 10px;
+  background: linear-gradient(transparent 0%, #2EA875 0%);
+  padding: 5px 15px 5px 15px;
+  margin-left: 30px;
+  color: #fff;
+}
