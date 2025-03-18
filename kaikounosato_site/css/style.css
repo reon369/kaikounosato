@@ -313,6 +313,9 @@ margin-top: 30px;
 .Whatplace-local-description-sec{
   width: 50%;
 }
+.Whatplace-local-description-sec h5{
+margin-bottom: 30px;
+}
 .Whatplace-local-img-sec{
   width: 50%;
 }
@@ -326,6 +329,9 @@ margin-top: 30px;
 .freedom-description-sec{
   width: 50%;
 }
+.freedom-description-sec h5{
+  margin-bottom: 30px;
+}
 .freedom-img-sec{
   width: 50%;
 }
@@ -338,6 +344,9 @@ margin-top: 30px;
 }
 .ivent-description-sec{
   width: 50%;
+}
+.ivent-description-sec h5{
+  margin-bottom: 30px;
 }
 .ivent-img-sec{
   width: 50%;
