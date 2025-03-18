@@ -291,6 +291,15 @@ margin-top: 30px;
   gap: 5%;
   margin-top: 30px;
 }
+.corporate-description-sec h5{
+margin-bottom: 30px;
+}
+.personal-description-sec h5{
+  margin-bottom: 30px;
+  }
+  .Whatplace-description-sec h5{
+    margin-bottom: 30px;
+    }
 .width{
   width: 40%;
 }
