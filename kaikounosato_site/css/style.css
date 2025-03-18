@@ -424,7 +424,8 @@ margin-bottom: 30px;
   background-color: #E4DFAA;
   padding: 15px;
   border-radius: 15px;
-  margin: 20px auto;
+  margin: 25px auto 0 auto;
   width: 90%;
   align-items: center;
+  gap: 3%;
 }
