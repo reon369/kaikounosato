@@ -432,3 +432,67 @@ margin-bottom: 20px;
   align-items: center;
   gap: 3%;
 }
+footer {
+  background-color: #5DA56E; /* 緑色の背景 */
+  color: white;
+  padding: 40px 20px;
+  text-align: center;
+  position: relative;
+  border-top-left-radius: 50px; /* 角を丸くする */
+  border-top-right-radius: 50px;
+}
+
+footer span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: bold;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: white;
+  color: #5DA56E;
+  padding: 10px;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+footer ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+footer ul li {
+  font-size: 16px;
+  cursor: pointer;
+}
+
+footer p {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+footer address {
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+/* 背景の模様 */
+footer::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-image: url('pattern.png'); /* 背景の模様画像を適用 */
+  background-size: contain;
+  background-repeat: repeat;
+  opacity: 0.2;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
