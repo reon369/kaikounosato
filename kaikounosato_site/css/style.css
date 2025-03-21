@@ -647,4 +647,19 @@ footer::before {
 .main_visual-container {
   width: 100%;
 }
+.button-reserve-sns {
+  display: flex;
+  margin-top: 10%;
+  align-items: flex-end;
+  flex-wrap: nowrap;
+  align-content: center;
+}
+.first-reserve {
+  box-shadow: 8px 8px #228E61;
+  border-radius: 10px;
+  background: linear-gradient(transparent 0%, #2EA875 0%);
+  padding: 16px;
+  color: #fff;
+  width: 100%;
+}
 }
