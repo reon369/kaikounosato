@@ -328,6 +328,9 @@ margin-bottom: 30px;
 .recommend-user-wrapper p{
   color: #fff;
 }
+.recommend-user-wrapper h5{
+  color: #fff;
+}
 .recomend-local-sec{
   display: flex;
   align-items: flex-end;
