@@ -325,6 +325,9 @@ margin-bottom: 30px;
   text-align: center;
   color: #fff;
 }
+.recommend-user-wrapper p{
+  color: #fff;
+}
 .recomend-local-sec{
   display: flex;
   align-items: flex-end;
