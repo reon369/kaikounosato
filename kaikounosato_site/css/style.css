@@ -68,14 +68,13 @@ html {
       .menu-drawer {
         position: fixed;
         width: 55px;
-        border-radius: 15px;
         right: 10%;
         top: 0;
         cursor: pointer;
         z-index: 99999;
       }
       .menu-button {
-        background-color:#FCFAF7 ;
+        background-color:#2EA875;
         display: flex;
         width: 60px;
         height: 60px;
@@ -85,6 +84,7 @@ html {
         cursor: pointer;
         top: 10px;
         z-index: 100; /* 重なり順を一番上に */
+        border-radius: 15px;
       }
       .menu-button:after , .menu-button:before{
         background-color:none ;
@@ -95,7 +95,7 @@ html {
         height: 1px;
         width: 25px;
         border-radius: 3px;
-        background: #333;
+        background: #fff;
         transition: 0.5s;
         position: absolute;
         top: 18px;
@@ -135,7 +135,7 @@ html {
         top: 0;
         left: 100%; /* メニューを画面の外に飛ばす */
         z-index: 99;
-        background: #FCFAF7;
+        background: #2EA875;
         transition: .5s;
       }
     .drawer-list {
