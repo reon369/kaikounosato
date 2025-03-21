@@ -128,7 +128,7 @@ html {
       }
       /* メニューのデザイン*/
       .drawer-content {
-        width: 100%;
+        width: 50%;
         height: 100%;
         position: fixed;
         top: 0;
@@ -428,7 +428,7 @@ margin-bottom: 30px;
   max-width: 1100px;
 }
 .recommend-user-wrapper h4{
-  margin: 0 auto ;
+  margin: 0 auto 30px ;
   text-align: center;
   color: #fff;
 }
