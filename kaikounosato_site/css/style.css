@@ -639,7 +639,9 @@ footer::before {
     flex-direction: column-reverse;
     padding-bottom: 60px;
     }
-
+    p {
+      line-height: 2.4rem;
+  }
   .pc{
     display: none;
   }
@@ -725,5 +727,8 @@ footer::before {
 }
 .recomend-local-description-sec, .freedom-description-sec, .ivent-description-sec {
   width: 90%;
+}
+p {
+    line-height: 2.6rem;
 }
 }
