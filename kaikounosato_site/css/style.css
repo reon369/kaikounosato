@@ -627,7 +627,7 @@ footer::before {
    }
    h3 {
     font-size: 5.5rem;
-
+   }
   .main_visual-wrapper{
     flex-direction: column;
     flex-wrap: nowrap;
@@ -688,5 +688,22 @@ footer::before {
 .about-img {
   width: 90%;
   margin:10px auto 10px;
+}
+.Whatplace-corporate-sec {
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+.width {
+  width: 90%;
+  margin: 0 auto;
+}
+.Whatplace-personal-sec 
+{
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+.Whatplace-local-sect {
+  flex-direction: column;
+  flex-wrap: nowrap;
 }
 }
