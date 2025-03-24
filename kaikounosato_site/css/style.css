@@ -628,6 +628,9 @@ footer::before {
    h3 {
     font-size: 5.5rem;
    }
+   h4 {
+    font-size: 2.7rem;
+   }
   .main_visual-wrapper{
     flex-direction: column;
     flex-wrap: nowrap;
@@ -705,5 +708,9 @@ footer::before {
 .Whatplace-local-sect {
   flex-direction: column;
   flex-wrap: nowrap;
+}
+.corporate-description-sec, .personal-description-sec, .Whatplace-description-sec {
+  width: 90%;
+  margin: 0 auto;
 }
 }
