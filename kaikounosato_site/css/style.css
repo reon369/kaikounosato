@@ -597,7 +597,9 @@ footer address {
   font-size: 12px;
   line-height: 1.5;
 }
-
+.logofooter{
+  width: 40%;
+}
 /* 背景の模様 */
 footer::before {
   content: "";
@@ -659,6 +661,13 @@ footer::before {
 }
 .main_visual-container {
   width: 100%;
+}
+.nami1::before, .nami1::after {
+  width: 60%;
+  height: 100%;
+}
+.nami1 img{
+  display: none;
 }
 .button-reserve-sns {
   display: flex;
@@ -738,5 +747,8 @@ footer::before {
   padding: 15px;
   border-radius: 15px;
   margin-top: 30px;
+}
+.logofooter{
+  margin: 0 auto;
 }
 }
