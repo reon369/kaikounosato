@@ -746,6 +746,7 @@ footer::before {
 }
 .access-sec h5{
 text-align: center;
+margin-bottom: 20px;
 }
 .access-sec-wrapper {
   justify-content: space-around;
