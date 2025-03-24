@@ -744,9 +744,13 @@ footer::before {
   width: 90%;
   padding-left: 2%
 }
+.access-sec h5{
+text-align: center;
+}
 .access-sec-wrapper {
   justify-content: space-around;
-  flex-direction: flex-start;width:90% ;
+  flex-direction: flex-start;
+  width:90% ;
 }
 .access-adress-map {
   background-color: #E4DFAA;
@@ -754,8 +758,12 @@ footer::before {
   border-radius: 15px;
   margin-top: 30px;
 }
-.logofooter{
-  margin: 0 auto;
+map {
+  width: 90%;
+}
+.access-adress-osuume {
+ align-items: flex-start;
+  flex-direction: column;
 }
 footer ul li {
   font-size: 14px;
