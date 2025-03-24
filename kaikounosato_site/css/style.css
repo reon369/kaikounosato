@@ -695,7 +695,6 @@ footer::before {
   background: linear-gradient(transparent 0%, #2EA875 0%);
   padding: 16px;
   color: #fff;
-  width: 100%;
 }
 
 .about-wrapper {
