@@ -728,7 +728,15 @@ footer::before {
 .recomend-local-description-sec, .freedom-description-sec, .ivent-description-sec {
   width: 90%;
 }
-p {
-    line-height: 2.6rem;
+.access-sec-wrapper {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+.access-adress-map {
+  background-color: #E4DFAA;
+  padding: 15px;
+  border-radius: 15px;
+  margin-top: 30px;
 }
 }
