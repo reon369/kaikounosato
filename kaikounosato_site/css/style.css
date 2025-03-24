@@ -711,6 +711,9 @@ footer::before {
   flex-direction: column;
   flex-wrap: nowrap;
 }
+.access-sec{
+  margin: 60px auto 30px;
+}
 .width {
   width: 90%;
   margin: 0 auto;
