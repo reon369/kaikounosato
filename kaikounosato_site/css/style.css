@@ -752,6 +752,7 @@ text-align: center;
 margin-bottom: 20px;
 }
 .access-sec-wrapper {
+  flex-direction: column-reverse;
   justify-content: space-around;
   flex-direction: flex-start;
   width:90% ;
