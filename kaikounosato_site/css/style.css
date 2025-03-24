@@ -711,7 +711,7 @@ footer::before {
   flex-direction: column;
   flex-wrap: nowrap;
 }
-.corporate-description-sec, .personal-description-sec, .Whatplace-description-sec {
+.corporate-description-sec, .personal-description-sec, .local-description-sec {
   width: 90%;
   margin: 0 auto;
 }
