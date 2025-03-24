@@ -742,6 +742,7 @@ footer::before {
 }
 .recomend-local-description-sec, .freedom-description-sec, .ivent-description-sec {
   width: 90%;
+  padding-left: 2%
 }
 .access-sec-wrapper {
   display: flex;
