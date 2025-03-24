@@ -746,7 +746,7 @@ footer::before {
 }
 .access-sec-wrapper {
   justify-content: space-around;
-  flex-direction: column-reverse;
+  flex-direction: flex-start;width:90% ;
 }
 .access-adress-map {
   background-color: #E4DFAA;
