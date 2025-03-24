@@ -713,4 +713,7 @@ footer::before {
   width: 90%;
   margin: 0 auto;
 }
+.corporate-description-sec h5, .personal-description-sec h5, .Whatplace-description-sec h5 {
+  margin-bottom: 20px;
+}
 }
