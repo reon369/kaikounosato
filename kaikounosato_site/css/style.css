@@ -718,7 +718,7 @@ footer::before {
 .corporate-description-sec h5, .personal-description-sec h5, .Whatplace-description-sec h5 {
   margin-bottom: 20px;
 }
-.recomend-local-sec {
+.recomend-local-sec, .recomend-freedom-sec, .recomend-ivent-sec {
   align-items: center;
   flex-direction: column;
 }
