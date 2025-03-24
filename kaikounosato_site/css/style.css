@@ -716,4 +716,14 @@ footer::before {
 .corporate-description-sec h5, .personal-description-sec h5, .Whatplace-description-sec h5 {
   margin-bottom: 20px;
 }
+.recomend-local-sec {
+  align-items: center;
+  flex-direction: column;
+}
+.recomend-local-img-sec, .freedom-img-sec, .ivent-img-sec {
+  width: 90%;
+}
+.recomend-local-description-sec, .freedom-description-sec, .ivent-description-sec {
+  width: 90%;
+}
 }
