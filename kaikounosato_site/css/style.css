@@ -631,6 +631,7 @@ footer::before {
     margin: 0 auto;
     width: 95%;
     flex-direction: column-reverse;
+    padding-bottom: 60px;
     }
 
   .pc{
@@ -644,6 +645,9 @@ footer::before {
     margin: 0;
     margin-top: 20px;
 }
+.main_word{
+  font-size: 4.5rem;
+}
 .main_visual-container {
   width: 100%;
 }
@@ -653,6 +657,10 @@ footer::before {
   align-items: flex-end;
   flex-wrap: nowrap;
   align-content: center;
+}
+.button-sns {
+  margin-left: 0px; 
+ 
 }
 .first-reserve {
   box-shadow: 8px 8px #228E61;
