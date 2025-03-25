@@ -129,7 +129,7 @@ html {
       }
       /* メニューのデザイン*/
       .drawer-content {
-        width: 50%;
+        width: 70%;
         height: 100%;
         position: fixed;
         top: 0;
@@ -164,7 +164,7 @@ html {
       }
       /* アイコンがクリックされたらメニューを表示 */
       #drawer-check:checked ~ .drawer-content {
-        left: 0; /* メニューを画面に入れる */
+        left: 30%; /* メニューを画面に入れる */
       }
       #drawer-check:checked ~ .drawer-close {
         left: 0; /* 閉じるための要素を画面内へ */
