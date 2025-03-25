@@ -788,6 +788,8 @@ margin-bottom: 20px;
 }
 map {
   width: 90%;
+}map iframe{
+  width: 90%;
 }
 .access-adress-osuume {
  align-items: flex-start;
