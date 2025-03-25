@@ -726,6 +726,7 @@ footer::before {
   width: 90%;
   margin: 0 auto;
 }
+
 .Whatplace-personal-sec 
 {
   flex-direction: column;
@@ -756,11 +757,17 @@ footer::before {
   width: 90%;
   padding-left: 2%
 }
+.recomend-local-description-sec h5,.ivent-description-sec,.freedom-description-sec h5 {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.access-sec h3{
+  margin-left: 10%;
+}
 .access-sec h5{
 text-align: center;
 margin-bottom: 20px;
-width: 90%;
-margin: 0 auto;
+
 }
 .access-sec-wrapper {
   flex-direction: column-reverse;
