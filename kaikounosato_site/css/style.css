@@ -21,7 +21,9 @@ html {
     font-weight: 700;
     font-style: normal;
   }
-  
+  .comonn{
+    position: absolute;
+  }
   body {
     font-family: "Zen Kaku Gothic New", sans-serif;
      font-size: 1.6rem;
@@ -654,9 +656,7 @@ footer::before {
     p {
       line-height: 2.4rem;
   }
-  .comonn{
-    position: absolute;
-  }
+  
   .pc{
     display: none;
   }
