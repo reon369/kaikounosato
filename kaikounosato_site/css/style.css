@@ -271,6 +271,18 @@ html {
 .about-sec{
   position: relative;
 }
+.kikyu{
+  right: -3%;
+    top: 1%;
+}
+.yotto{
+  bottom: 3%;
+  z-index: 9999;
+}
+.moterboat{
+  left: 50%;
+  z-index: 9999;
+}
 .logo{
   max-width: 240px;
   margin-bottom: 10%;
