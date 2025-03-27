@@ -23,7 +23,7 @@ html {
   }
   .comonn{
     position: absolute;
-    width: 10%;
+    width: 6%;
   }
   body {
     font-family: "Zen Kaku Gothic New", sans-serif;
@@ -257,6 +257,15 @@ html {
   border-radius: 10px;
   margin-top: 20%;
   color: #fff;
+}
+.relax{
+  bottom: -6%;
+  z-index: 999;
+  right: 29%;
+}
+.fising{
+  left: 50%;
+  width: 9%;
 }
 .about-sec{
   position: relative;
