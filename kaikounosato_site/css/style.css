@@ -266,6 +266,7 @@ html {
 .fishing{
   left: 50%;
   width: 9%;
+  z-index: 999;
 }
 .about-sec{
   position: relative;
