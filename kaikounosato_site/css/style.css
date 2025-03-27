@@ -264,8 +264,9 @@ html {
   right: 29%;
 }
 .fishing{
-  left: 50%;
+  left: 35%;
   width: 9%;
+  bottom: -2%;
   z-index: 999;
 }
 .about-sec{
@@ -280,7 +281,7 @@ html {
   z-index: 9999;
 }
 .moterboat{
-  left: 50%;
+  left: 38%;
   z-index: 9999;
 }
 .logo{
@@ -383,7 +384,13 @@ html {
 }
 .head-about{
   margin-bottom: 45px;
-  
+}
+.kids{
+  right: 5%;
+}
+.sleep{
+  top: -5%;
+  right: 15%;
 }
 .sub-about-head{
   font-size:2.4rem;
