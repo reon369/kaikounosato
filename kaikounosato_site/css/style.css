@@ -580,6 +580,7 @@ margin-bottom: 20px;
 .reserve-sec{
   background-color: #BDF1A2;
   border-radius: 50px;
+  position: relative;
 }
 .reserve-wrapper{
   max-width: 1100px;
