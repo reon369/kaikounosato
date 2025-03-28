@@ -434,6 +434,7 @@ margin-top: 30px;
   align-items: flex-end;
   gap: 5%;
   margin-top: 30px;
+  position: relative;
 }
 .corporate-description-sec{
 position: relative;
@@ -444,7 +445,7 @@ position: relative;
 .sleep{
   top: -5%;
   right: 15%;
-  width: 10%;
+  width: 7%;
 }
 .droon{
   left: 16%;
@@ -461,14 +462,20 @@ position: relative;
   top: -18%;
   width: 13%;
 }
-.personal-description-sec{
-  position: relative;
+
+.camp{
+  width: 10%;
+  right: 5%;
+  top:5%
 }
 .corporate-description-sec h5{
 margin-bottom: 10px;
 }
 .personal-description-sec h5{
   margin-bottom: 10px;
+  }
+  .Whatplace-local-sec{
+    position: relative;
   }
   .local-description-sec h5{
     margin-bottom: 10px;
