@@ -455,7 +455,9 @@ position: relative;
   color: #228E61;
 }
 .business{
-
+  right: 3%;
+  top: -18%;
+  width: 13%;
 }
 .corporate-description-sec h5{
 margin-bottom: 10px;
