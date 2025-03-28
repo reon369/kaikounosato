@@ -468,6 +468,10 @@ position: relative;
   right: 5%;
   top:5%
 }
+.hanabi{
+  left: 5%;
+  bottom: 0;
+}
 .corporate-description-sec h5{
 margin-bottom: 10px;
 }
