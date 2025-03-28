@@ -592,6 +592,11 @@ margin-bottom: 20px;
     top: 30%;
     width: 11%;
 }
+.kitchencar{
+  right: 10%;
+  bottom: 12%;
+  width: 7%;
+}
 .reserve-wrapper{
   max-width: 1100px;
   margin: 0 auto;
