@@ -461,17 +461,19 @@ position: relative;
 .business{
   right: 3%;
   top: -18%;
-  width: 13%;
+  width: 15%;
 }
 
 .camp{
   width: 10%;
-  right: 5%;
-  top:5%
+  width: 10%;
+  right: 9%;
+  top: 25%;
 }
 .hanabi{
-  left: 5%;
-  bottom: 0;
+  left: 0%;
+    width: 15%;
+    bottom: 20%;
 }
 .corporate-description-sec h5{
 margin-bottom: 10px;
