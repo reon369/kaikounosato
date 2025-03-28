@@ -452,6 +452,10 @@ position: relative;
   left: 16%;
   top: -5%;
 }
+.cycle{
+  left: 5%;
+  top: 5%;
+}
 .sub-about-head{
   font-size:2.4rem;
 }
