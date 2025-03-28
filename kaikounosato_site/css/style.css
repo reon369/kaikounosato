@@ -683,6 +683,9 @@ footer address {
 .logofooter{
   width: 40%;
 }
+.logofooter img{
+  width: 35%;
+}
 /* 背景の模様 */
 footer::before {
   content: "";
@@ -811,7 +814,9 @@ footer::before {
   width: 90%;
   margin: 0 auto;
 }
-
+.Whatplace-sec h4 {
+  margin: 30px auto;
+}
 .Whatplace-personal-sec 
 {
   flex-direction: column;
