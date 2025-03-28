@@ -172,6 +172,7 @@ html {
       #drawer-check:checked ~ .drawer-close {
         left: 0; /* 閉じるための要素を画面内へ */
       }
+      /*----------------ファーストビュー------------*/
    .firstviwe{
     position: relative;
    }
@@ -395,6 +396,7 @@ html {
   position: relative;
   background: #BBE7F1;
 }
+/*----------------何をする場所なの------------*/
 .Whatplace-sec{
   position: relative;
 }
@@ -459,7 +461,7 @@ position: relative;
   top: -18%;
   width: 13%;
 }
-personal-description-sec{
+.personal-description-sec{
   position: relative;
 }
 .corporate-description-sec h5{
@@ -468,13 +470,13 @@ margin-bottom: 10px;
 .personal-description-sec h5{
   margin-bottom: 10px;
   }
-
   .local-description-sec h5{
     margin-bottom: 10px;
     }
 .width{
   width: 40%;
 }
+/*----------------こんなひとにおすすめ------------*/
 .recommend-user{
   background-color: #2EA875;
   padding: 50px 0;
@@ -543,6 +545,7 @@ margin-bottom: 20px;
 .ivent-img-sec{
   width: 50%;
 }
+/*----------------ブログ------------*/
 .blog-sec{
   max-width: 1100px;
   margin: 0 auto;
@@ -554,6 +557,7 @@ margin-bottom: 20px;
   text-align: center;
   color: #228E61;
 }
+/*----------------予約------------*/
 .reserve-sec{
   background-color: #BDF1A2;
   border-radius: 50px;
@@ -581,6 +585,7 @@ margin-bottom: 20px;
   padding: 10px;
   color: #fff;
 }
+/*----------------アクセス------------*/
 .access-sec{
   max-width: 1100px;
   margin: 60px auto;
@@ -606,6 +611,7 @@ margin-bottom: 20px;
   align-items: center;
   gap: 3%;
 }
+/*----------------ふったー------------*/
 footer {
   background-color: #5DA56E; /* 緑色の背景 */
   color: white;
@@ -677,6 +683,7 @@ footer::before {
 .mobile{
   display: none;
 }
+/*----------------モバイル――――――――------------*/
 @media (max-width: 450px){
   body {
     font-family: "Zen Kaku Gothic New", sans-serif;
