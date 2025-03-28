@@ -459,12 +459,16 @@ position: relative;
   top: -18%;
   width: 13%;
 }
+personal-description-sec{
+  position: relative;
+}
 .corporate-description-sec h5{
 margin-bottom: 10px;
 }
 .personal-description-sec h5{
   margin-bottom: 10px;
   }
+
   .local-description-sec h5{
     margin-bottom: 10px;
     }
