@@ -641,7 +641,10 @@ footer {
   border-top-left-radius: 50px; /* 角を丸くする */
   border-top-right-radius: 50px;
 }
-
+.footerwrapper{
+  max-width: 1100px;
+  margin: 0 auto;
+}
 footer span {
   display: flex;
   align-items: center;
