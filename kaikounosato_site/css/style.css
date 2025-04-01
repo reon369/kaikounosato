@@ -718,7 +718,7 @@ footer::before {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: url('pattern.png'); /* 背景の模様画像を適用 */
+  background-image: url('../asset/img/pattern.png'); /* 背景の模様画像を適用 */
   background-size: contain;
   background-repeat: repeat;
   opacity: 0.2;
