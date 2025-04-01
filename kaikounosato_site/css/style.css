@@ -815,16 +815,7 @@ footer::before {
   padding: 16px;
   color: #fff;
 }
-.droon {
-  left: 9%;
-  top: -2%;
-  width: 7%;
-}
-.cycle {
-  left: 1%;
-  top: 1%;
-  width: 7%;
-}
+
 .about-wrapper {
   flex-direction: column-reverse;
 }
@@ -835,6 +826,7 @@ footer::before {
   width: 95%;
   margin: 0 auto;
 }
+
 .about-img {
   width: 90%;
   margin:10px auto 10px;
@@ -846,6 +838,32 @@ footer::before {
 .Whatplace-corporate-sec {
   flex-direction: column;
   flex-wrap: nowrap;
+}
+.droon {
+  left: 9%;
+  top: -2%;
+  width: 7%;
+}
+.cycle {
+  left: 1%;
+  top: 1%;
+  width: 7%;
+}
+.sleep {
+  top: -3%;
+  right: 15%;
+  width: 7%;
+}
+.camp {
+  width: 10%;
+  width: 22%;
+  right: 9%;
+  bottom: 38%;
+}
+.hanabi {
+  right: 1%;
+  width: 24%;
+  bottom: 40%;
 }
 .access-sec{
   margin: 60px auto 30px;
