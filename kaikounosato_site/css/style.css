@@ -815,7 +815,16 @@ footer::before {
   padding: 16px;
   color: #fff;
 }
-
+.droon {
+  left: 9%;
+  top: -2%;
+  width: 7%;
+}
+.cycle {
+  left: 1%;
+  top: 1%;
+  width: 7%;
+}
 .about-wrapper {
   flex-direction: column-reverse;
 }
