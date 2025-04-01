@@ -729,6 +729,7 @@ footer::before {
 .footer-main_word{
   text-align: left;
   margin: 0 auto;
+  display: inline-block;
 }
 .pc{
   display: block;
