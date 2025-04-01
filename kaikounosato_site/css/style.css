@@ -865,6 +865,26 @@ footer::before {
   width: 24%;
   bottom: 40%;
 }
+.music02 {
+  left: 7%;
+  top: 30%;
+  width: 11%;
+}
+.music01 {
+  right: 7%;
+  top: 30%;
+  width: 13%;
+}
+.camp03 {
+  left: 10%;
+  bottom: 9%;
+  width: 17%;
+}
+.kitchencar {
+    right: 10%;
+    bottom: 6%;
+    width: 12%;
+}
 .access-sec{
   margin: 60px auto 30px;
 }
