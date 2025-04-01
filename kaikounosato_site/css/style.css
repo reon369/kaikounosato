@@ -797,6 +797,13 @@ footer::before {
   justify-content: flex-start;
   align-items: center;
 }
+.relax {
+ width: 15%;
+}
+.fishing {
+  left: 10%;
+  width: 22%;
+}
 .button-sns {
   margin-left: 20px; 
  
