@@ -932,8 +932,9 @@ footer::before {
 .blog-sec h3{
 margin-left: 5%;
 }
-.access-sec h3{
-  margin-left: 5%;
+.access-sec h3 {
+  margin-bottom: 20px;
+  text-align: center;
 }
 .access-sec h5{
 text-align: center;
