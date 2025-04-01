@@ -969,4 +969,7 @@ footer ul li {
   font-size: 14px;
   cursor: pointer;
 }
+footer span {
+  top: -17%;
+}
 }
