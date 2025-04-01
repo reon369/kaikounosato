@@ -873,6 +873,7 @@ footer::before {
   right: 1%;
   width: 24%;
   bottom: 40%;
+  left: none;
 }
 .music02 {
   left: 7%;
