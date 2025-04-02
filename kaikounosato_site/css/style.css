@@ -1012,4 +1012,9 @@ footer span {
   background-color: #FFF;
   margin: 5% auto;
 }
+
+.footer-adrees-logo {
+  flex-direction: column;
+
+}
 }
