@@ -707,7 +707,7 @@ footer address {
   text-align: left;
 }
 .logofooter{
-  width: 40%;
+  width: fit-content;
 }
 .logofooter img{
   width: 35%;
@@ -730,6 +730,12 @@ footer::before {
   text-align: left;
   border-top: solid 0.5px;
   padding-top: 10px;
+}
+.footer-adrees-logo{
+  display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-start;
 }
 .pc{
   display: block;
