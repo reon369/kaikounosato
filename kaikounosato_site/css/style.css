@@ -886,7 +886,7 @@ footer::before {
 .camp {
   width: 22%;
   right: 9%;
-  bottom: 26%;
+  bottom: 35%;
   top: auto;
 }
 .hanabi {
@@ -927,7 +927,7 @@ footer::before {
   margin: 0 auto;
 }
 .Whatplace-sec h4 {
-  margin: 30px auto;
+  margin:50px auto 30px
 }
 .Whatplace-personal-sec 
 {
@@ -1008,8 +1008,8 @@ footer span {
   right: 5%;
 }
 .logofooter img {
-  width: 71%;
+  width: 40%;
   background-color: #FFF;
-  margin-bottom: 5%;
+  margin: 5% auto;
 }
 }
