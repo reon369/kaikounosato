@@ -854,6 +854,9 @@ footer::before {
 .Whatplace-corporate-sec {
   flex-direction: column;
   flex-wrap: nowrap;
+}.kids {
+  right: 5%;
+  width: 9%;
 }
 .droon {
   left: 9%;
