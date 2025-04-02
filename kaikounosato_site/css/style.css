@@ -855,7 +855,6 @@ footer::before {
   flex-direction: column;
   flex-wrap: nowrap;
 }.kids {
-  right: 5%;
   width: 9%;
 }
 .droon {
@@ -904,6 +903,10 @@ footer::before {
     right: 10%;
     bottom: 6%;
     width: 12%;
+}
+.reserve-wrapper {
+  padding: 40px 0 55px;
+
 }
 .access-sec{
   margin: 60px auto 30px;
