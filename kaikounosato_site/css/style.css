@@ -386,7 +386,11 @@ html {
 .head-about{
   margin-bottom: 45px;
 }
-
+.container3 {
+  position: relative;
+  background:#BBE7F1;
+  height: 5vh;
+}
 .about-description-sentens{
   line-height: 3.6rem;
   margin-top: 20px;
