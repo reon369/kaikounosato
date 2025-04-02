@@ -407,6 +407,7 @@ html {
   width: 100%;
   background: #F1ECBB;
   bottom: 0;
+  z-index: 999;
 }
 
 .wave4::before, .wave4::after {
