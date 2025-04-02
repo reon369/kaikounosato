@@ -516,6 +516,35 @@ margin-bottom: 10px;
 .width{
   width: 40%;
 }
+.wave5 {
+  position: absolute;
+  height: 87px;
+  width: 100%;
+  background: #BBE7F1;
+  bottom: 0;
+}
+
+.wave5::before, .wave5::after {
+  content: "";
+  display: block;
+  position: absolute;
+  border-radius: 100% 50%;
+}
+
+.wave5::before {
+  width: 55%;
+  height: 109%;
+  background-color: #F1ECBB;
+  right: -1.5%;
+  top: 60%;
+}
+.wave5::after {
+  width: 55%;
+  height: 100%;
+  background-color: #BBE7F1;
+  left: -1.5%;
+  top: 40%;
+}
 /*----------------こんなひとにおすすめ------------*/
 .recommend-user{
   background-color: #2EA875;
