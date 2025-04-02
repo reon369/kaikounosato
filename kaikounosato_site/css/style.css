@@ -831,7 +831,11 @@ footer::before {
   padding: 16px;
   color: #fff;
 }
-
+.kikyu {
+  right: 3%;
+  top: 1%;
+  width: 13%;
+}
 .about-wrapper {
   flex-direction: column-reverse;
 }
