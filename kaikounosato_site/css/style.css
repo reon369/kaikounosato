@@ -71,7 +71,7 @@ html {
       .menu-drawer {
         position: fixed;
         width: 55px;
-        right: 10%;
+        right: 5%;
         top: 0;
         cursor: pointer;
         z-index: 99999;
