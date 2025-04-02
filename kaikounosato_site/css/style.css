@@ -871,10 +871,10 @@ footer::before {
   width: 7%;
 }
 .camp {
-  width: 10%;
   width: 22%;
   right: 9%;
-  bottom: 38%;
+  bottom: 26%;
+  top: auto;
 }
 .hanabi {
   right: 1%;
