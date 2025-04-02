@@ -786,8 +786,15 @@ footer::before {
     margin: 0;
     margin-top: 20px;
 }
+.mobile-logo-top {
+  position: fixed;
+  width: 100%;
+  left: 3%;
+
+  
+}
 .main_word{
-  font-size: 4.5rem;
+  font-size: 4.3rem;
   margin-top: 10%;
 }
 .main_visual-container {
