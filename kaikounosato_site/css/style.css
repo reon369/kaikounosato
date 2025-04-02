@@ -891,6 +891,7 @@ footer::before {
 .fishing {
   left: 10%;
   width: 22%;
+  bottom: -1%;
 }
 .button-sns {
   margin-left: 20px; 
