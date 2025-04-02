@@ -391,10 +391,31 @@ html {
   line-height: 3.6rem;
   margin-top: 20px;
 }
-.container3{
+.container4{
   height: 3vh;
   position: relative;
-  background: #BBE7F1;
+  background: #F1ECBB;
+}
+.wave4::before, .wave4::after {
+  content: "";
+  display: block;
+  position: absolute;
+  border-radius: 50% 100%;
+}
+
+.wave4::before {
+  width: 55%;
+  height: 100%;
+  background-color: #F1ECBB;
+  right: -1.5%;
+  top: 40%;
+}
+.wave4::after {
+  width: 55%;
+  height: 109%;
+  background-color: #228E61;
+  left: -1.5%;
+  top: 60%;
 }
 /*----------------何をする場所なの------------*/
 .Whatplace-sec{
@@ -563,6 +584,11 @@ margin-bottom: 20px;
 }
 .ivent-img-sec{
   width: 50%;
+}
+.container4{
+  height: 3vh;
+  position: relative;
+  background: #228E61
 }
 /*----------------ブログ------------*/
 .blog-sec{
