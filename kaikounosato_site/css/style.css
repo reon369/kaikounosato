@@ -1080,7 +1080,7 @@ footer ul li {
   cursor: pointer;
 }
 footer span {
-  top: -5%;
+  top: -20%;
   right: 5%;
 }
 .logofooter img {
@@ -1088,9 +1088,10 @@ footer span {
   background-color: #FFF;
   margin: 5% auto;
 }
-
+footer {
+padding: 60px 20px;
+}
 .footer-adrees-logo {
   flex-direction: column;
-
 }
 }
