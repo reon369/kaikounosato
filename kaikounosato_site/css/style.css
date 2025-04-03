@@ -803,9 +803,8 @@ footer::before {
 }
 .footer-main_word{
   text-align: left;
-  border-top: solid 0.5px;
-  padding-top: 10px;
-}
+  border-bottom: solid 0.5px;
+  padding-bottom: 10px;
 .footer-adrees-logo{
   display: flex;
       flex-direction: row;
@@ -1078,11 +1077,7 @@ margin-bottom: 20px;
 footer ul{
   margin-bottom: 0;
 }
-.footer-main_word {
-  text-align: left;
-  border-bottom: solid 0.5px;
-  padding-bottom: 10px;
-}
+
 
 footer ul li {
   font-size: 14px;
