@@ -762,7 +762,7 @@ footer ul {
   justify-content: center;
   gap: 20px;
   padding: 0;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 footer ul li {
@@ -805,7 +805,7 @@ footer::before {
   text-align: left;
   border-bottom: solid 0.5px;
   padding-bottom: 10px;
-}
+} 
 .footer-adrees-logo{
   display: flex;
       flex-direction: row;
