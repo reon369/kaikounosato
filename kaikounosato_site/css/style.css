@@ -397,17 +397,17 @@ html {
 }
 .container4 {
   position: relative;
-  background: #F1ECBB;
-  height: 8vh;
+    height: 8vh;
+    background-color: #2EA875;
 }
 
 .wave4{
   position: absolute;
-  height: 70px;
-  width: 100%;
-  background: #F1ECBB;
-  bottom: 0;
-  z-index: 999;
+    height: 70px;
+    width: 100%;
+    background: #F1ECBB;
+    top: -50px;
+    z-index: 999;
 }
 
 .wave4::before, .wave4::after {
@@ -429,7 +429,7 @@ html {
   height: 109%;
   background-color: #2EA875;
   left: -1.5%;
-  top: 72%;
+  top: 60%;
 }
 /*----------------何をする場所なの------------*/
 .Whatplace-sec{
