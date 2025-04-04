@@ -541,12 +541,16 @@ margin-bottom: 10px;
 .sunflower1{
   position: absolute;
   z-index: 9999;
-  left: 30%;
+  right: 30%;
+  top: 8%;
+  width: 7%;
 }
 .sunflower2{
   position: absolute;
   z-index: 9999;
-  right: 30%;
+  left: 30%;
+  top: 6%;
+  width: 7%;
 }
 .recommend-user-wrapper{
   margin: 0 auto 40px;
