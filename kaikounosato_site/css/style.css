@@ -794,11 +794,11 @@ footer address {
   text-align: left;
 }
 .logofooter{
-  width: 30%;
+  width: 20%;
     display: inline-block;
 }
 .logofooter img{
-  width: 55%;
+  width: 80%;
   background-color: #FFF;
 }
 /* 背景の模様 */
