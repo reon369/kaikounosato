@@ -799,6 +799,7 @@ footer address {
 }
 .logofooter img{
   width: 55%;
+  background-color: #FFF;
 }
 /* 背景の模様 */
 footer::before {
@@ -1103,7 +1104,7 @@ footer span {
 }
 .logofooter img {
   width: 40%;
-  background-color: #FFF;
+
   margin: 5% auto;
 }
 footer {
