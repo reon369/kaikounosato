@@ -1091,6 +1091,9 @@ margin-bottom: 20px;
 }
 footer ul{
   margin-bottom: 0;
+    gap: 30px;
+ 
+}
 }
 
 
@@ -1101,6 +1104,10 @@ footer ul li {
 footer span {
   top: -20%;
   right: 5%;
+}
+.logofooter {
+  width: 81%;
+  display: inline-block;
 }
 .logofooter img {
   width: 40%;
