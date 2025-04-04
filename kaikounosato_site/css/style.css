@@ -784,7 +784,9 @@ footer p {
   font-size: 14px;
   margin-bottom: 10px;
 }
-
+.footer-adress{
+  width: 100%;
+}
 footer address {
   font-size: 12px;
   line-height: 1.5;
@@ -792,10 +794,11 @@ footer address {
   text-align: left;
 }
 .logofooter{
-  width: fit-content;
+  width: 30%;
+    display: inline-block;
 }
 .logofooter img{
-  width: 35%;
+  width: 55%;
 }
 /* 背景の模様 */
 footer::before {
