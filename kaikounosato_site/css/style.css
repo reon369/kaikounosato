@@ -770,7 +770,7 @@ footer ul {
   list-style: none;
   display: flex;
   justify-content: center;
-  gap: 20px;
+  gap: 50px;
   padding: 0;
   margin-bottom: 30px;
 }
