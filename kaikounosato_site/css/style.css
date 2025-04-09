@@ -997,15 +997,15 @@ footer::before {
 .sunflower1{
   position: absolute;
   z-index: 9999;
-  right: 30%;
-  top: 7%;
+  right: 5%;
+  top: 4%;
   width: 6%;
 }
 .sunflower2{
   position: absolute;
   z-index: 9999;
-  left: 30%;
-  top: 7%;
+  left: 5%;
+  top: 4%;
   width: 6%;
 }
 .music02 {
