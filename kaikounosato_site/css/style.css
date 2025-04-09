@@ -542,15 +542,15 @@ margin-bottom: 10px;
   position: absolute;
   z-index: 9999;
   right: 30%;
-  top: 8%;
-  width: 7%;
+  top: 7%;
+  width: 6%;
 }
 .sunflower2{
   position: absolute;
   z-index: 9999;
   left: 30%;
-  top: 6%;
-  width: 7%;
+  top: 7%;
+  width: 6%;
 }
 .recommend-user-wrapper{
   margin: 0 auto 40px;
@@ -962,7 +962,9 @@ footer::before {
 .Whatplace-corporate-sec {
   flex-direction: column;
   flex-wrap: nowrap;
-}.kids {
+}
+
+.kids {
   width: 9%;
 }
 .droon {
@@ -991,6 +993,20 @@ footer::before {
   width: 24%;
   bottom: 40%;
   left: auto;
+}
+.sunflower1{
+  position: absolute;
+  z-index: 9999;
+  right: 30%;
+  top: 7%;
+  width: 6%;
+}
+.sunflower2{
+  position: absolute;
+  z-index: 9999;
+  left: 30%;
+  top: 7%;
+  width: 6%;
 }
 .music02 {
   left: 7%;
@@ -1042,7 +1058,14 @@ footer::before {
 }
 .recommend-user {
   margin-top: 20px;
- 
+}
+.recommend-user-wrapper {
+  margin: 0 auto 20px;
+  max-width: 1100px;
+}
+.container4 {
+
+  height: 5vh;
 }
 .corporate-description-sec h5, .personal-description-sec h5, .local-description-sec h5 {
     margin-bottom: 10px;
