@@ -676,13 +676,13 @@ margin-bottom: 20px;
 }
 .hata1{
 position: absolute;
-right: 0;
-width: 50%;
+left: 0;
+width: 25%;
 }
 .hata2{
   position: absolute;
-  left: 0;
-  width: 50%;
+  right: 0;
+  width: 25%;
   }
 .music01{
   right: 10%;
