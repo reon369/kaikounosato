@@ -674,6 +674,16 @@ margin-bottom: 20px;
   border-radius: 50px;
   position: relative;
 }
+.hata1{
+position: absolute;
+right: 0;
+width: 50%;
+}
+.hata2{
+  position: absolute;
+  left: 0;
+  width: 50%;
+  }
 .music01{
   right: 10%;
     top: 30%;
