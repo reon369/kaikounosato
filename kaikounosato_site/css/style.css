@@ -680,14 +680,14 @@ margin-bottom: 20px;
   border-radius: 50px;
   position: relative;
 }
-.description1{
+.hata1{
 position: absolute;
 left: 0;
 top: 0;
 width: 25%;
 transform: scale(-1, 1);
 }
-.description2{
+.hata2{
   position: absolute;
   right: 0;
   top: 0;
