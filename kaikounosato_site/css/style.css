@@ -267,7 +267,7 @@ html {
   transition: 1.4s cubic-bezier(0.37, 0, 0.63, 1);
   transition-property: clip-path;
 }
-.smooth.is-animated {
+.main_word.is-animated {
   clip-path: inset(0);
 }
 .relax{
