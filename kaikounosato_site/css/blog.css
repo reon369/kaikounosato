@@ -13,8 +13,8 @@ body {
     position: relative;
     width: 90%;
     z-index: 9999;
-    top: 10%;
-    left: 10%;  }
+    top: -10%;
+    left: 5%;  }
   .nami2 img{
     width: 25%;
   }
@@ -35,8 +35,8 @@ body {
 }
 
 .nami2::after {
-  left: 25%;
-  top: 21%;
+    left: 17%;
+    top: -80%;
   width: 25%;
 }
   .blog-list {
