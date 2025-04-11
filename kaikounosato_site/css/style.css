@@ -188,6 +188,9 @@ html {
     top: 10%;
     left: 13%
   }
+  .nami1 img{
+    width: 25%;
+  }
 .nami1::before, .nami1::after {
   content: "";
   display: block;
@@ -207,6 +210,7 @@ html {
 .nami1::after {
   left: 25%;
   top: 21%;
+  width: 25%;
 }
   .wave {
     position: absolute;
