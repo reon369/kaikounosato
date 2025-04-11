@@ -14,7 +14,7 @@ body {
     width: 90%;
     z-index: 9999;
     top: -10%;
-    left: 5%;  }
+    left: 1%;  }
   .nami2 img{
     width: 25%;
   }
@@ -35,10 +35,10 @@ body {
 }
 
 .nami2::after {
-    left: 17%;
+    left: 18%;
     top: -80%;
   width: 25%;
-}
+}   
   .blog-list {
     display: grid;
     grid-template-columns: 1fr;
