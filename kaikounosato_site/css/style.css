@@ -314,6 +314,11 @@ html {
   background: linear-gradient(transparent 0%, #2EA875 0%);
   padding: 15px;
   color: #fff;
+  transition: .3s;
+}
+.first-reserve:hover {
+  box-shadow: unset;
+  transform: translate(4px,4px);
 }
 .button-reserves-sns{
   margin-top: 10%;
