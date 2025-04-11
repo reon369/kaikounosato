@@ -680,19 +680,18 @@ margin-bottom: 20px;
   border-radius: 50px;
   position: relative;
 }
-.hata1{
+.description1{
 position: absolute;
 left: 0;
 top: 0;
 width: 25%;
 transform: scale(-1, 1);
 }
-.hata2{
+.description2{
   position: absolute;
   right: 0;
   top: 0;
   width: 25%;  
-  transform: scale(-1, 1);
   }
 .music01{
   right: 10%;
