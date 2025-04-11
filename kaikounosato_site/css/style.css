@@ -183,11 +183,10 @@ html {
   }
   .nami1{
     position: relative;
-    width: 100%;
+    width: 90%;
     z-index: 9999;
     top: 10%;
-    left: 13%
-  }
+    left: 10%;  }
   .nami1 img{
     width: 25%;
   }
