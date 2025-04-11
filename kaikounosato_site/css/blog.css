@@ -44,6 +44,7 @@ body {
   .blog-title {
     text-align: center;
     z-index: 9999;
+    position: relative;
   }  /* タブレット以上（2カラム） */
   @media (min-width: 600px) {
     .blog-list {
