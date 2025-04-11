@@ -41,8 +41,9 @@ body {
     line-height: 1.5;
     color: #fff;
   }
-
-  /* タブレット以上（2カラム） */
+  .blog-title {
+    text-align: center;
+  }  /* タブレット以上（2カラム） */
   @media (min-width: 600px) {
     .blog-list {
       grid-template-columns: repeat(2, 1fr);
