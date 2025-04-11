@@ -686,6 +686,7 @@ position: absolute;
 left: 0;
 top: 0;
 width: 25%;
+transform: scale(-1, 1);
 }
 .hata2{
   position: absolute;
