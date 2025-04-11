@@ -182,11 +182,11 @@ html {
     height: 15vh;
   }
   .nami1{
-    position: relative; 
-    width: 420px;
+    position: relative;
+    width: 100%;
     z-index: 9999;
     top: 10%;
-    left: 10%;
+    left: 13%
   }
 .nami1::before, .nami1::after {
   content: "";
@@ -199,11 +199,14 @@ html {
   background-repeat: no-repeat;
 }
 .nami1::before {
-    left: 10%;
+  right: 17%;
+    width: 25%;
+    top: -9%
 }
 
 .nami1::after {
-    right: 10%;
+  left: 25%;
+  top: 21%;
 }
   .wave {
     position: absolute;
