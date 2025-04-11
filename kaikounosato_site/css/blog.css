@@ -4,6 +4,41 @@ body {
     font-family: sans-serif;
     background-color: #F1ECBB;
   }
+  .container {
+    position: relative;
+    background: #BBE7F1;
+    height: 15vh;
+  }
+  .nami1{
+    position: relative;
+    width: 90%;
+    z-index: 9999;
+    top: 10%;
+    left: 10%;  }
+  .nami1 img{
+    width: 25%;
+  }
+.nami1::before, .nami1::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;  /* .nami1 と同じ幅にする */
+  height: 100%;
+  background-image: url(../asset/img/nami.png); /* 背景画像として設定 */
+  background-size: contain;  /* 画像を要素のサイズに収める */
+  background-repeat: no-repeat;
+}
+.nami1::before {
+  right: 17%;
+    width: 25%;
+    top: -9%
+}
+
+.nami1::after {
+  left: 25%;
+  top: 21%;
+  width: 25%;
+}
   .blog-list {
     display: grid;
     grid-template-columns: 1fr;
