@@ -579,6 +579,20 @@ margin-bottom: 10px;
   z-index: 9999;
   top: 10%;
   left: 10%;  }
+  .flower2{
+    position: relative;
+    width: 90%;
+    z-index: 9999;
+    top: 10%;
+    right: 10%;
+  }
+  .flower3{
+    position: relative;
+    width: 90%;
+    z-index: 9999;
+    top: 10%;
+    right: 30%;
+  }
 .flower img{
   width: 3%;
 }
