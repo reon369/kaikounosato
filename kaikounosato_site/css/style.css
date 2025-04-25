@@ -607,15 +607,15 @@ background-size: contain;  /* 画像を要素のサイズに収める */
 background-repeat: no-repeat;
 }
 .flower::before {
-right: 17%;
-  width: 25%;
-  top: -9%
+  right: 0%;
+  width: 4%;
+  top: -9%;
 }
 
 .flower::after {
-left: 25%;
-top: 21%;
-width: 25%;
+  right: 19%;
+  top: 21%;
+  width: 4%;
 }
 .recommend-user-wrapper{
   margin: 0 auto 40px;
