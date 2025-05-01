@@ -578,9 +578,11 @@ margin-bottom: 10px;
   width: 90%;
   z-index: 9999;
   top: 10%;
-  left: 10%;  }
+  left: 10%;  
+}
   .flower1{
-    left: -5%;  }
+    left: -5%;  
+  }
   .flower2{
     position: relative;
     width: 90%;
