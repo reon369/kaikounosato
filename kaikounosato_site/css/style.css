@@ -581,14 +581,15 @@ margin-bottom: 10px;
   left: 10%;  
 }
   .flower1{
-    left: -5%;  
+    left: 0%;
+    top: -20%;  
   }
   .flower2{
     position: relative;
     width: 90%;
     z-index: 9999;
     top: 10%;
-    right: -15%;
+    right: -20%;
   }
   .flower3{
     position: relative;
@@ -611,14 +612,14 @@ background-size: contain;  /* 画像を要素のサイズに収める */
 background-repeat: no-repeat;
 }
 .flower::before {
-  right: 0%;
+  right: 4%;
   width: 4%;
   top: -9%;
 }
 
 .flower::after {
   right: 19%;
-  top: 21%;
+  top: 40%;
   width: 4%;
 }
 .recommend-user-wrapper{
