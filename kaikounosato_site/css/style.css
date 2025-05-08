@@ -387,7 +387,7 @@ html {
   top: 10%;
   left: 10%;  }
 .nami2 img{
-  width: 60%;
+  width: 80%;
 }
 .nami2::before, .nami2::after {
 content: "";
@@ -402,12 +402,12 @@ background-repeat: no-repeat;
 .nami2::before {
 right: 0%;
   width:  100%;
-  top: -9%
+  top: 0%
 }
 
 .nami2::after {
 left: 0%;
-top: 21%;
+bottom: 0%;
 width: 100%;
 }
 .about-wrapper{
