@@ -401,14 +401,14 @@ background-repeat: no-repeat;
 }
 .nami2::before {
 right: 0%;
-  width:  50%;
+  width:  100%;
   top: -9%
 }
 
 .nami2::after {
 left: 0%;
 top: 21%;
-width: 50%;
+width: 100%;
 }
 .about-wrapper{
   max-width:1100px;
