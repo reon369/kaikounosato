@@ -409,6 +409,13 @@ left: 0%;
 bottom: 0%;
 width: 50%;
 }
+.nami_img_only{
+  position: absolute;
+  width: 80%;
+  z-index: 99;
+  top: 0%;
+  left: 0%;
+}
 .about-wrapper{
   max-width:1100px;
   width:100%;
