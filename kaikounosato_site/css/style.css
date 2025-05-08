@@ -378,6 +378,7 @@ html {
 }
 .about-sec{
   background-color: #BBE7F1;
+  position: relative;
 }
 .about-wrapper{
   max-width:1100px;
