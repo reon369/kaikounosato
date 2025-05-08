@@ -383,7 +383,7 @@ html {
 .nami2{
   position: absolute;
   width: 90%;
-  z-index: 9999;
+  z-index: 99;
   }
 .nami2 img{
   width: 80%;
@@ -393,7 +393,7 @@ content: "";
 display: block;
 position: absolute;
 width: 100%;  /* .nami1 と同じ幅にする */
-height: 100%;
+height: auto;
 background-image: url(../asset/img/nami.png); /* 背景画像として設定 */
 background-size: contain;  /* 画像を要素のサイズに収める */
 background-repeat: no-repeat;
