@@ -381,11 +381,10 @@ html {
   position: relative;
 }
 .nami2{
-  position: relative;
+  position: absolute;
   width: 90%;
   z-index: 9999;
-  top: 10%;
-  left: 10%;  }
+  }
 .nami2 img{
   width: 80%;
 }
@@ -401,14 +400,14 @@ background-repeat: no-repeat;
 }
 .nami2::before {
 right: 0%;
-  width:  100%;
+  width:  50%;
   top: 0%
 }
 
 .nami2::after {
 left: 0%;
 bottom: 0%;
-width: 100%;
+width: 50%;
 }
 .about-wrapper{
   max-width:1100px;
