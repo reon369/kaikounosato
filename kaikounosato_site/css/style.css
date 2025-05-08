@@ -453,69 +453,69 @@ html {
   top: 60%;
 }
 .container {
-  position: relative;
-  background: #BBE7F1;
-  height: 15vh;
-}
-.nami2{
-  position: relative;
-  width: 90%;
-  z-index: 9999;
-  top: 10%;
-  left: 10%;  }
-.nami2 img{
-  width: 25%;
-}
+    position: relative;
+    background: #BBE7F1;
+    height: 15vh;
+  }
+  .nami2{
+    position: relative;
+    width: 90%;
+    z-index: 9999;
+    top: 10%;
+    left: 10%;  }
+  .nami2 img{
+    width: 25%;
+  }
 .nami2::before, .nami2::after {
-content: "";
-display: block;
-position: absolute;
-width: 100%;  /* .nami1 と同じ幅にする */
-height: 100%;
-background-image: url(../asset/img/nami.png); /* 背景画像として設定 */
-background-size: contain;  /* 画像を要素のサイズに収める */
-background-repeat: no-repeat;
-}
-.nami2::before {
-right: 17%;
-  width: 25%;
-  top: -9%
-}
-
-.nami2::after {
-left: 25%;
-top: 21%;
-width: 25%;
-}
-.wave2{
-  position: absolute;
-  height: 87px;
-  width: 100%;
-  background: #BBE7F1;
-  bottom: 0;
-}
-
-.wave2::before, .wave2::after {
   content: "";
   display: block;
   position: absolute;
-  border-radius: 100% 50%;
+  width: 100%;  /* .nami1 と同じ幅にする */
+  height: 100%;
+  background-image: url(../asset/img/nami.png); /* 背景画像として設定 */
+  background-size: contain;  /* 画像を要素のサイズに収める */
+  background-repeat: no-repeat;
+}
+.nami2::before {
+  right: 17%;
+    width: 25%;
+    top: -9%
 }
 
-.wave2::before {
-  width: 55%;
-  height: 109%;
-  background-color: #F1ECBB;
-  right: -1.5%;
-  top: 60%;
+.nami2::after {
+  left: 25%;
+  top: 21%;
+  width: 25%;
 }
-.wave2::after {
-  width: 55%;
-  height: 100%;
-  background-color: #BBE7F1;
-  left: -1.5%;
-  top: 40%;
-}
+  .wave {
+    position: absolute;
+    height: 87px;
+    width: 100%;
+    background: #BBE7F1;
+    bottom: 0;
+  }
+  
+  .wave::before, .wave::after {
+    content: "";
+    display: block;
+    position: absolute;
+    border-radius: 100% 50%;
+  }
+  
+  .wave::before {
+    width: 55%;
+    height: 109%;
+    background-color: #F1ECBB;
+    right: -1.5%;
+    top: 60%;
+  }
+  .wave::after {
+    width: 55%;
+    height: 100%;
+    background-color: #BBE7F1;
+    left: -1.5%;
+    top: 40%;
+  }
 /*----------------何をする場所なの------------*/
 .Whatplace-sec{
   position: relative;
