@@ -387,7 +387,7 @@ html {
   top: 10%;
   left: 10%;  }
 .nami2 img{
-  width: 25%;
+  width: 60%;
 }
 .nami2::before, .nami2::after {
 content: "";
