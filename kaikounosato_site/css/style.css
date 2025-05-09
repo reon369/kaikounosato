@@ -290,6 +290,7 @@ html {
   right: 3%;
     top: 1%;
     z-index: 9999;
+    position: absolute;
 }
 .yotto{
   bottom: 3%;
