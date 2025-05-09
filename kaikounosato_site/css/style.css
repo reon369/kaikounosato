@@ -415,14 +415,14 @@ width: 50%;
   position: absolute;
   width: 60%;
   z-index: 99;
-  bottom: 0%;
+  bottom: -3%;
   left: 10%;
 }
 .nami_img_only02{
   position: absolute;
   width: 60%;
   z-index: 99;
-  top: 0%;
+  top: -3%;
   right: 10%;
 }
 .about-wrapper{
