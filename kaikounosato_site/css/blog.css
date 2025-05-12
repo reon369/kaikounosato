@@ -9,16 +9,16 @@ body {
     background: #BBE7F1;
     height: 15vh;
   }
-  .nami2{
+  .nami33{
     position: relative;
     width: 90%;
     z-index: 9999;
     top: -10%;
     left: 4%;  }
-  .nami2 img{
+  .nami3 img{
     width: 25%;
   }
-.nami2::before, .nami2::after {
+.nami3::before, .nami3::after {
   content: "";
   display: block;
   position: absolute;
@@ -28,13 +28,13 @@ body {
   background-size: contain;  /* 画像を要素のサイズに収める */
   background-repeat: no-repeat;
 }
-.nami2::before {
+.nami3::before {
   right: 17%;
     width: 25%;
     top: -9%
 }
 
-.nami2::after {
+.nami3::after {
     left: 18%;
     top: -80%;
   width: 25%;
