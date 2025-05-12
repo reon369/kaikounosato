@@ -31,7 +31,7 @@ body {
 .nami3::before {
   right: 17%;
     width: 25%;
-    top: -9%
+    top: -100%
 }
 
 .nami3::after {
