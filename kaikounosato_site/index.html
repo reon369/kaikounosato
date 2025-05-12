@@ -230,14 +230,15 @@
           <div class="blog-sec-wrapper">
         <img class="goat comonn" src="asset/img/goat.png" alt="">
         <h3>Blog</h3>
-         <div class="blog-cards">
+     
+  <div class="blog__cards">
     <?php
     $recent_posts = wp_get_recent_posts([
       'numberposts' => 4,
       'post_status' => 'publish',
     ]);
     foreach ($recent_posts as $post) : ?>
-      <div class="blog-card">
+      <div class="blog__card">
         <a href="<?php echo get_permalink($post['ID']); ?>">
           <h3><?php echo esc_html($post['post_title']); ?></h3>
         </a>
@@ -245,8 +246,8 @@
     <?php endforeach; ?>
   </div>
 
-  <div class="blog-button-area">
-    <a href="<?php echo get_permalink(get_option('page_for_posts')); ?>" class="blog-button">ブログを見る</a>
+  <div class="blog__button-area">
+    <a href="<?php echo get_permalink(get_option('page_for_posts')); ?>" class="blog__button">ブログを見る</a>
   </div>
        <button class="blog-button">ブログを見る</button>
        </section>
