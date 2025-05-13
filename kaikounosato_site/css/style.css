@@ -51,6 +51,19 @@ html {
 .fadeUpTrigger {
   opacity: 0;
 }
+@keyframes fadeup {
+  0% {
+    transform: translateY(30px);
+    opacity: 0;
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
   body {
     font-family: "Zen Kaku Gothic New", sans-serif;
      font-size: 1.6rem;
